@@ -2,4 +2,14 @@
 
 https://teachyourselfcs.com/
 
-Break down chapters
+# Subjects
+
+- Programming
+- Computer Architecture
+- Algorithms and Data Structures
+- Math for CS
+- Operating Systems
+- Computer networking
+- Databases
+- Languages and compilers
+- Distributed systems
